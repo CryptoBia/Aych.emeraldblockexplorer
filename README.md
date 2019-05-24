@@ -12,6 +12,7 @@ An open source block explorer written in node.js.
 *  [Florincoin](https://florincoin.info/info)
 *  [Maxcoin Explorer 1](https://explorer.maxcoinproject.net/)
 *  [Maxcoin Explorer 2](https://explorer2.maxcoinproject.net/)
+*  [Emerald Crypto](https://www.emeraldcrypto.de/)
 
 
 *note: If you would like your instance mentioned here contact me*
@@ -53,6 +54,7 @@ Create user with read/write access:
     cp ./settings.json.template ./settings.json
 
 *Make required changes in settings.json*
+you can request the settings.json file from EMD core team
 
 ### Start Explorer
 
@@ -109,7 +111,7 @@ Iquidus Explorer is intended to be generic so it can be used with any wallet fol
 ### Donate
 
     BTC: 168hdKA3fkccPtkxnX8hBrsxNubvk4udJi
-    JBS: JZp9893FMmrm1681bDuJBU7c6w11kyEY7D
+    EMD: EnJnzAQSpPp7RshMhNx9zhRnabxTLird6W
 
 ### Known Issues
 
